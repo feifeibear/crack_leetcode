@@ -1,4 +1,4 @@
-# crack_leetcode
+# Crack Leetcode In A Week
 五天刷题，三天模拟！快速掌握leetcode
 
 ## 目标人群
